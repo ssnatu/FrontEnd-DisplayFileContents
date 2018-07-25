@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+    color: #000;
+    background-color: #fff;
+}
+
+h2 {
+	font-weight: bold;
+	text-align: center;
+	color: #fff;
+	padding: 10px;
+}
+
+.panel-heading {
+	margin: 10px 0 20px 0;
+	background-color: #000080;
+}
+
+input[type="submit"] {
+    padding:5px 15px; 
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px; 
+}
+
+form {
+	text-align: center;
+}
+
+.tabs {
+	margin-top: 20px;
+}
+
+.nav-item > a {
+    color: #000;
+}
+
+.nav-item > a:hover {
+    color: #31708F;
+}
